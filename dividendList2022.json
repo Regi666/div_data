@@ -1,0 +1,716 @@
+[
+  {
+    "wkn": "200417",
+    "depot": 0,
+    "payed": "10.01.2022",
+    "amount": 16.85
+  },
+  {
+    "wkn": "940561",
+    "depot": 0,
+    "payed": "13.01.2022",
+    "amount": 17.02
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "14.01.2022",
+    "amount": 6.41
+  },
+  {
+    "wkn": "A1JRLA",
+    "depot": 0,
+    "payed": "14.01.2022",
+    "amount": 9.32
+  },
+  {
+    "wkn": "A0DLFT",
+    "depot": 0,
+    "payed": "14.01.2022",
+    "amount": 11.24
+  },
+  {
+    "wkn": "A0MW32",
+    "depot": 0,
+    "payed": "14.01.2022",
+    "amount": 24.21
+  },
+  {
+    "wkn": "899744",
+    "depot": 0,
+    "payed": "14.01.2022",
+    "amount": 9.19
+  },
+  {
+    "wkn": "A0F5UH",
+    "depot": 0,
+    "payed": "17.01.2022",
+    "amount": 11.26
+  },
+  {
+    "wkn": "A1C8BH",
+    "depot": 0,
+    "payed": "18.01.2022",
+    "amount": 4.46
+  },
+  {
+    "wkn": "878841",
+    "depot": 0,
+    "payed": "26.01.2022",
+    "amount": 11.06
+  },
+  {
+    "wkn": "A0HL9Z",
+    "depot": 0,
+    "payed": "01.02.2022",
+    "amount": 11.86
+  },
+  {
+    "wkn": "852654",
+    "depot": 0,
+    "payed": "07.02.2022",
+    "amount": 11.21
+  },
+  {
+    "wkn": "865985",
+    "depot": 0,
+    "payed": "10.02.2022",
+    "amount": 6.53
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "15.02.2022",
+    "amount": 6.38
+  },
+  {
+    "wkn": "852062",
+    "depot": 0,
+    "payed": "15.02.2022",
+    "amount": 12.93
+  },
+  {
+    "wkn": "A1J84E",
+    "depot": 0,
+    "payed": "15.02.2022",
+    "amount": 20.95
+  },
+  {
+    "wkn": "899744",
+    "depot": 0,
+    "payed": "15.02.2022",
+    "amount": 9.16
+  },
+  {
+    "wkn": "A1C8BH",
+    "depot": 0,
+    "payed": "15.02.2022",
+    "amount": 4.51
+  },
+  {
+    "wkn": "890454",
+    "depot": 0,
+    "payed": "15.02.2022",
+    "amount": 24.98
+  },
+  {
+    "wkn": "884437",
+    "depot": 0,
+    "payed": "25.02.2022",
+    "amount": 7.33
+  },
+  {
+    "wkn": "A0NC7B",
+    "depot": 0,
+    "payed": "01.03.2022",
+    "amount": 2.83
+  },
+  {
+    "wkn": "853260",
+    "depot": 0,
+    "payed": "08.03.2022",
+    "amount": 8.14
+  },
+  {
+    "wkn": "870747",
+    "depot": 0,
+    "payed": "10.03.2022",
+    "amount": 4.83
+  },
+  {
+    "wkn": "851745",
+    "depot": 0,
+    "payed": "14.03.2022",
+    "amount": 18.23
+  },
+  {
+    "wkn": "A0F5UF",
+    "depot": 0,
+    "payed": "15.03.2022",
+    "amount": 1.35
+  },
+  {
+    "wkn": "899744",
+    "depot": 0,
+    "payed": "15.03.2022",
+    "amount": 9.49
+  },
+  {
+    "wkn": "A1C8BH",
+    "depot": 0,
+    "payed": "15.03.2022",
+    "amount": 4.69
+  },
+  {
+    "wkn": "856958",
+    "depot": 0,
+    "payed": "15.03.2022",
+    "amount": 10.62
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "15.03.2022",
+    "amount": 6.62
+  },
+  {
+    "wkn": "A0JNE2",
+    "depot": 0,
+    "payed": "22.03.2022",
+    "amount": 12.84
+  },
+  {
+    "wkn": "928193",
+    "depot": 0,
+    "payed": "23.03.2022",
+    "amount": 11.22
+  },
+  {
+    "wkn": "A0NFN3",
+    "depot": 0,
+    "payed": "23.03.2022",
+    "amount": 48.44
+  },
+  {
+    "wkn": "A0MW32",
+    "depot": 0,
+    "payed": "23.03.2022",
+    "amount": 7.68
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "30.03.2022",
+    "amount": 2.73
+  },
+  {
+    "wkn": "A1JX53",
+    "depot": 0,
+    "payed": "30.03.2022",
+    "amount": 28.47
+  },
+  {
+    "wkn": "A0HGWC",
+    "depot": 0,
+    "payed": "30.03.2022",
+    "amount": 14.16
+  },
+  {
+    "wkn": "A0DLFT",
+    "depot": 0,
+    "payed": "31.03.2022",
+    "amount": 12.2
+  },
+  {
+    "wkn": "858144",
+    "depot": 0,
+    "payed": "31.03.2022",
+    "amount": 9.08
+  },
+  {
+    "wkn": "A2JG9Z",
+    "depot": 0,
+    "payed": "31.03.2022",
+    "amount": 18.92
+  },
+  {
+    "wkn": "850663",
+    "depot": 0,
+    "payed": "01.04.2022",
+    "amount": 16.74
+  },
+  {
+    "wkn": "940561",
+    "depot": 0,
+    "payed": "07.04.2022",
+    "amount": 20.58
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "14.04.2022",
+    "amount": 6.7
+  },
+  {
+    "wkn": "A0F5UH",
+    "depot": 0,
+    "payed": "19.04.2022",
+    "amount": 12.62
+  },
+  {
+    "wkn": "A1C8BH",
+    "depot": 0,
+    "payed": "19.04.2022",
+    "amount": 4.75
+  },
+  {
+    "wkn": "899744",
+    "depot": 0,
+    "payed": "19.04.2022",
+    "amount": 9.65
+  },
+  {
+    "wkn": "852147",
+    "depot": 0,
+    "payed": "21.04.2022",
+    "amount": 127.09
+  },
+  {
+    "wkn": "878841",
+    "depot": 0,
+    "payed": "27.04.2022",
+    "amount": 11.94
+  },
+  {
+    "wkn": "200417",
+    "depot": 0,
+    "payed": "29.04.2022",
+    "amount": 17.92
+  },
+  {
+    "wkn": "A1JRLA",
+    "depot": 0,
+    "payed": "29.04.2022",
+    "amount": 10.04
+  },
+  {
+    "wkn": "A0HL9Z",
+    "depot": 0,
+    "payed": "02.05.2022",
+    "amount": 6.69
+  },
+  {
+    "wkn": "843002",
+    "depot": 0,
+    "payed": "03.05.2022",
+    "amount": 121
+  },
+  {
+    "wkn": "BASF11",
+    "depot": 0,
+    "payed": "04.05.2022",
+    "amount": 68
+  },
+  {
+    "wkn": "840400",
+    "depot": 0,
+    "payed": "09.05.2022",
+    "amount": 162
+  },
+  {
+    "wkn": "865985",
+    "depot": 0,
+    "payed": "15.05.2022",
+    "amount": 7.36
+  },
+  {
+    "wkn": "890454",
+    "depot": 0,
+    "payed": "13.05.2022",
+    "amount": 23.74
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "13.05.2022",
+    "amount": 6.05
+  },
+  {
+    "wkn": "899744",
+    "depot": 0,
+    "payed": "13.05.2022",
+    "amount": 9.9
+  },
+  {
+    "wkn": "A1C8BH",
+    "depot": 0,
+    "payed": "16.05.2022",
+    "amount": 4.28
+  },
+  {
+    "wkn": "A1J84E",
+    "depot": 0,
+    "payed": "16.05.2022",
+    "amount": 19.88
+  },
+  {
+    "wkn": "852062",
+    "depot": 0,
+    "payed": "16.05.2022",
+    "amount": 12.88
+  },
+  {
+    "wkn": "852654",
+    "depot": 0,
+    "payed": "17.05.2022",
+    "amount": 10.66
+  },
+  {
+    "wkn": "ENAG99",
+    "depot": 0,
+    "payed": "17.05.2022",
+    "amount": 36.07
+  },
+  {
+    "wkn": "884437",
+    "depot": 0,
+    "payed": "27.05.2022",
+    "amount": 6.79
+  },
+  {
+    "wkn": "A0NC7B",
+    "depot": 0,
+    "payed": "01.06.2022",
+    "amount": 2.58
+  },
+  {
+    "wkn": "853260",
+    "depot": 0,
+    "payed": "07.06.2022",
+    "amount": 7.79
+  },
+  {
+    "wkn": "870747",
+    "depot": 0,
+    "payed": "09.06.2022",
+    "amount": 4.29
+  },
+  {
+    "wkn": "851745",
+    "depot": 0,
+    "payed": "13.06.2022",
+    "amount": 16.49
+  },
+  {
+    "wkn": "578560",
+    "depot": 0,
+    "payed": "13.06.2022",
+    "amount": 27.1
+  },
+  {
+    "wkn": "899744",
+    "depot": 0,
+    "payed": "15.06.2022",
+    "amount": 8.74
+  },
+  {
+    "wkn": "A1C8BH",
+    "depot": 0,
+    "payed": "15.06.2022",
+    "amount": 4.29
+  },
+  {
+    "wkn": "A0F5UF",
+    "depot": 0,
+    "payed": "15.06.2022",
+    "amount": 4.42
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "15.06.2022",
+    "amount": 6.09
+  },
+  {
+    "wkn": "A0JNE2",
+    "depot": 0,
+    "payed": "16.06.2022",
+    "amount": 9.22
+  },
+  {
+    "wkn": "893579",
+    "depot": 0,
+    "payed": "17.06.2022",
+    "amount": 4.6
+  },
+  {
+    "wkn": "856958",
+    "depot": 0,
+    "payed": "20.06.2022",
+    "amount": 9.82
+  },
+  {
+    "wkn": "928193",
+    "depot": 0,
+    "payed": "23.06.2022",
+    "amount": 10.31
+  },
+  {
+    "wkn": "A0MW32",
+    "depot": 0,
+    "payed": "27.06.2022",
+    "amount": 7.02
+  },
+  {
+    "wkn": "A2ANVN",
+    "depot": 0,
+    "payed": "23.06.2022",
+    "amount": 10.57
+  },
+  {
+    "wkn": "A1JX54",
+    "depot": 1,
+    "payed": "29.06.2022",
+    "amount": 23.95
+  },
+  {
+    "wkn": "A0HGWC",
+    "depot": 0,
+    "payed": "29.06.2022",
+    "amount": 21.78
+  },
+  {
+    "wkn": "A2JG9Z",
+    "depot": 0,
+    "payed": "30.06.2022",
+    "amount": 17.21
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "30.06.2022",
+    "amount": 2.1
+  },
+  {
+    "wkn": "A0DLFT",
+    "depot": 0,
+    "payed": "30.06.2022",
+    "amount": 11.11
+  },
+  {
+    "wkn": "858144",
+    "depot": 0,
+    "payed": "30.06.2022",
+    "amount": 9.1
+  },
+  {
+    "wkn": "850663",
+    "depot": 0,
+    "payed": "01.07.2022",
+    "amount": 15.53
+  },
+  {
+    "wkn": "940561",
+    "depot": 0,
+    "payed": "01.07.2022",
+    "amount": 8.93
+  },
+  {
+    "wkn": "A1JRLA",
+    "depot": 0,
+    "payed": "08.07.2022",
+    "amount": 9.29
+  },
+  {
+    "wkn": "LYX0AG",
+    "depot": 0,
+    "payed": "08.07.2022",
+    "amount": 0.47
+  },
+  {
+    "wkn": "200417",
+    "depot": 0,
+    "payed": "11.07.2022",
+    "amount": 16.33
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "15.07.2022",
+    "amount": 6.35
+  },
+  {
+    "wkn": "A1C8BH",
+    "depot": 0,
+    "payed": "15.07.2022",
+    "amount": 4.49
+  },
+  {
+    "wkn": "899744",
+    "depot": 0,
+    "payed": "15.07.2022",
+    "amount": 9.13
+  },
+  {
+    "wkn": "A0F5UH",
+    "depot": 0,
+    "payed": "15.07.2022",
+    "amount": 37.89
+  },
+  {
+    "wkn": "878841",
+    "depot": 0,
+    "payed": "27.07.2022",
+    "amount": 11.04
+  },
+  {
+    "wkn": "A0HL9Z",
+    "depot": 0,
+    "payed": "01.08.2022",
+    "amount": 6.05
+  },
+  {
+    "wkn": "865985",
+    "depot": 0,
+    "payed": "11.08.2022",
+    "amount": 6.68
+  },
+  {
+    "wkn": "890454",
+    "depot": 0,
+    "payed": "15.08.2022",
+    "amount": 24.1
+  },
+  {
+    "wkn": "A1J84E",
+    "depot": 0,
+    "payed": "15.08.2022",
+    "amount": 20.29
+  },
+  {
+    "wkn": "A1C8BH",
+    "depot": 0,
+    "payed": "15.08.2022",
+    "amount": 4.37
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "15.08.2022",
+    "amount": 6.2
+  },
+  {
+    "wkn": "852062",
+    "depot": 0,
+    "payed": "15.08.2022",
+    "amount": 13.16
+  },
+  {
+    "wkn": "852654",
+    "depot": 0,
+    "payed": "16.08.2022",
+    "amount": 10.73
+  },
+  {
+    "wkn": "899744",
+    "depot": 0,
+    "payed": "15.08.2022",
+    "amount": 9.02
+  },
+  {
+    "wkn": "884437",
+    "depot": 0,
+    "payed": "26.08.2022",
+    "amount": 7.31
+  },
+  {
+    "wkn": "A0JNE2",
+    "depot": 0,
+    "payed": "01.09.2022",
+    "amount": 9.37
+  },
+  {
+    "wkn": "A0NC7B",
+    "depot": 0,
+    "payed": "01.09.2022",
+    "amount": 2.78
+  },
+  {
+    "wkn": "853260",
+    "depot": 0,
+    "payed": "06.09.2022",
+    "amount": 8.4
+  },
+  {
+    "wkn": "870747",
+    "depot": 0,
+    "payed": "08.09.2022",
+    "amount": 4.62
+  },
+  {
+    "wkn": "851745",
+    "depot": 0,
+    "payed": "12.09.2022",
+    "amount": 17.66
+  },
+  {
+    "wkn": "A0F5UF",
+    "depot": 0,
+    "payed": "15.09.2022",
+    "amount": 0.48
+  },
+  {
+    "wkn": "899744",
+    "depot": 0,
+    "payed": "15.09.2022",
+    "amount": 9.05
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "15.09.2022",
+    "amount": 6.27
+  },
+  {
+    "wkn": "A1C8BH",
+    "depot": 0,
+    "payed": "15.09.2022",
+    "amount": 4.42
+  },
+  {
+    "wkn": "856958",
+    "depot": 0,
+    "payed": "16.09.2022",
+    "amount": 10.25
+  },
+  {
+    "wkn": "852147",
+    "depot": 0,
+    "payed": "22.09.2022",
+    "amount": 55.66
+  },
+  {
+    "wkn": "893579",
+    "depot": 0,
+    "payed": "23.09.2022",
+    "amount": 4.87
+  },
+  {
+    "wkn": "928193",
+    "depot": 0,
+    "payed": "23.09.2022",
+    "amount": 10.94
+  },
+  {
+    "wkn": "A0X8Y3",
+    "depot": 0,
+    "payed": "27.09.2022",
+    "amount": 3.03
+  },
+  {
+    "wkn": "A0MW32",
+    "depot": 0,
+    "payed": "27.09.2022",
+    "amount": 7.55
+  }
+]

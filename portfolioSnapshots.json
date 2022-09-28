@@ -1,0 +1,156 @@
+[
+  {
+    "date": "04.08.2017",
+    "morganStanley": 8387,
+    "onVista": 4300,
+    "comdirect": 0,
+    "scalable": 0,
+    "mintos": 2000,
+    "bitcoin": 2641,
+    "etherium": 0,
+    "cash": 9000
+  },
+  {
+    "date": "29.10.2017",
+    "morganStanley": 9300,
+    "onVista": 7422.34,
+    "comdirect": 0,
+    "scalable": 0,
+    "mintos": 2656.77,
+    "bitcoin": 0,
+    "etherium": 0,
+    "cash": 8000
+  },
+  {
+    "date": "14.12.2017",
+    "morganStanley": 12447.37,
+    "onVista": 11825.19,
+    "comdirect": 0,
+    "scalable": 0,
+    "mintos": 2204.87,
+    "bitcoin": 0,
+    "etherium": 0,
+    "cash": 7400
+  },
+  {
+    "date": "12.01.2018",
+    "morganStanley": 12788.66,
+    "onVista": 11876.71,
+    "comdirect": 0,
+    "scalable": 0,
+    "mintos": 2716.17,
+    "bitcoin": 0,
+    "etherium": 0,
+    "cash": 12000
+  },
+  {
+    "date": "30.04.2018",
+    "morganStanley": 12153.72,
+    "onVista": 17034.86,
+    "comdirect": 0,
+    "scalable": 0,
+    "mintos": 2386.12,
+    "bitcoin": 0,
+    "etherium": 0,
+    "cash": 10500
+  },
+  {
+    "date": "12.09.2018",
+    "morganStanley": 14323,
+    "onVista": 23459.53,
+    "comdirect": 0,
+    "scalable": 0,
+    "mintos": 1875.58,
+    "bitcoin": 0,
+    "etherium": 0,
+    "cash": 10500
+  },
+  {
+    "date": "09.10.2018",
+    "morganStanley": 14371.37,
+    "onVista": 24672.63,
+    "comdirect": 0,
+    "scalable": 0,
+    "mintos": 1495.93,
+    "bitcoin": 0,
+    "etherium": 0,
+    "cash": 12000
+  },
+  {
+    "date": "05.01.2019",
+    "morganStanley": 0,
+    "onVista": 28282.08,
+    "comdirect": 0,
+    "scalable": 0,
+    "mintos": 529.07,
+    "bitcoin": 0,
+    "etherium": 0,
+    "cash": 27000
+  },
+  {
+    "date": "02.04.2019",
+    "morganStanley": 0,
+    "onVista": 37872.74,
+    "comdirect": 0,
+    "scalable": 0,
+    "mintos": 1602.56,
+    "bitcoin": 0,
+    "etherium": 0,
+    "cash": 24000
+  },
+  {
+    "date": "31.12.2019",
+    "morganStanley": 0,
+    "onVista": 52816.2,
+    "comdirect": 2473.85,
+    "scalable": 0,
+    "mintos": 0,
+    "bitcoin": 0,
+    "etherium": 0,
+    "cash": 45000
+  },
+  {
+    "date": "07.08.2020",
+    "morganStanley": 0,
+    "onVista": 56351.32,
+    "comdirect": 5876.84,
+    "scalable": 0,
+    "mintos": 0,
+    "bitcoin": 0,
+    "etherium": 0,
+    "cash": 44000
+  },
+  {
+    "date": "11.02.2021",
+    "morganStanley": 0,
+    "onVista": 78178.5,
+    "comdirect": 16419.11,
+    "scalable": 10018.05,
+    "mintos": 0,
+    "bitcoin": 0,
+    "etherium": 1350,
+    "cash": 10000
+  },
+  {
+    "date": "11.06.2021",
+    "morganStanley": 0,
+    "onVista": 84089.66,
+    "comdirect": 19821.31,
+    "scalable": 10455.34,
+    "mintos": 0,
+    "bitcoin": 0,
+    "etherium": 2032.88,
+    "cash": 19000
+  },
+  {
+    "date": "03.01.2022",
+    "morganStanley": 0,
+    "onVista": 96002.4,
+    "comdirect": 25323.26,
+    "scalable": 22118.67,
+    "mintos": 0,
+    "bitcoin": 0,
+    "etherium": 3333.85,
+    "cash": 13000
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "3M",
+    "wkn": "851745",
+    "isin": "US88579Y1010",
+    "symbol": "MMM",
+    "etf": false,
+    "amount": 16,
+    "purchasePrice": 161.12,
+    "depot": 0
+  },
+  {
+    "name": "Altria",
+    "wkn": "200417",
+    "isin": "US02209S1033",
+    "symbol": "MO",
+    "etf": false,
+    "amount": 25,
+    "purchasePrice": 47.66,
+    "depot": 0
+  },
+  {
+    "name": "Allianz",
+    "wkn": "840400",
+    "isin": "DE0008404005",
+    "symbol": "ALV.DE",
+    "etf": false,
+    "amount": 15,
+    "purchasePrice": 188.26,
+    "depot": 0
+  },
+  {
+    "name": "Apple",
+    "wkn": "865985",
+    "isin": "US0378331005",
+    "symbol": "AAPL",
+    "etf": false,
+    "amount": 40,
+    "purchasePrice": 41.42,
+    "depot": 0
+  },
+  {
+    "name": "AT&T",
+    "wkn": "A0HL9Z",
+    "isin": "US00206R1023",
+    "symbol": "T",
+    "etf": false,
+    "amount": 30,
+    "purchasePrice": 31.14,
+    "depot": 0
+  },
+  {
+    "name": "BASF",
+    "wkn": "BASF11",
+    "isin": "DE000BASF111",
+    "symbol": "BAS.F",
+    "etf": false,
+    "amount": 20,
+    "purchasePrice": 62.83,
+    "depot": 0
+  },
+  {
+    "name": "BB Biotech",
+    "wkn": "A0NFN3",
+    "isin": "CH0038389992",
+    "symbol": "BBZA.DE",
+    "etf": false,
+    "amount": 20,
+    "purchasePrice": 57.90,
+    "depot": 0
+  },
+  {
+    "name": "Broadcom",
+    "wkn": "A2JG9Z",
+    "isin": "US11135F1012",
+    "symbol": "AVGO",
+    "etf": false,
+    "amount": 6,
+    "purchasePrice": 279,
+    "depot": 0
+  },
+  {
+    "name": "CME Group",
+    "wkn": "A0MW32",
+    "isin": "US12572Q1058",
+    "symbol": "CME",
+    "etf": false,
+    "amount": 10,
+    "purchasePrice": 159.84,
+    "depot": 0
+  },
+  {
+    "name": "Coca Cola",
+    "wkn": "850663",
+    "isin": "US1912161007",
+    "symbol": "KO",
+    "etf": false,
+    "amount": 50,
+    "purchasePrice": 35.11,
+    "depot": 0
+  },
+  {
+    "name": "ComStage MDAX",
+    "wkn": "ETF007",
+    "isin": "LU1033693638",
+    "symbol": "C007.F",
+    "etf": true,
+    "amount": 20.1789,
+    "purchasePrice": 22.56,
+    "depot": 0
+  },
+  {
+    "name": "Fresenius",
+    "wkn": "578560",
+    "isin": "DE0005785604",
+    "symbol": "FRE.DE",
+    "etf": false,
+    "amount": 40,
+    "purchasePrice": 33.19,
+    "depot": 0
+  },
+  {
+    "name": "GlaxoSmithKline",
+    "wkn": "940561",
+    "isin": "GB0009252882",
+    "symbol": "GS7.DE",
+    "etf": false,
+    "amount": 75,
+    "purchasePrice": 19.19,
+    "depot": 0
+  },
+  {
+    "name": "iShares MSCI EM",
+    "wkn": "A0HGWC",
+    "isin": "IE00B0M63177",
+    "symbol": "IEMM.AS",
+    "etf": true,
+    "amount": 104.4765,
+    "purchasePrice": 35.84,
+    "depot": 0
+  },
+  {
+    "name": "iShares Nasdaq 100 ETF",
+    "wkn": "A0F5UF",
+    "isin": "DE000A0F5UF5",
+    "symbol": "EXXT.DE",
+    "etf": true,
+    "amount": 28.1289,
+    "purchasePrice": 91.79,
+    "depot": 0
+  },
+  {
+    "name": "iShares Global Select Dividend 100",
+    "wkn": "A0F5UH",
+    "isin": "DE000A0F5UH1",
+    "symbol": "ISPA.DE",
+    "etf": true,
+    "amount": 22.3348,
+    "purchasePrice": 26.78,
+    "depot": 0
+  },
+  {
+    "name": "Johnson & Johnson",
+    "wkn": "853260",
+    "isin": "US4781601046",
+    "symbol": "JNJ",
+    "etf": false,
+    "amount": 10,
+    "purchasePrice": 108.15,
+    "depot": 0
+  },
+  {
+    "name": "Lyxor ETF MSCI World",
+    "wkn": "LYX0AG",
+    "isin": "FR0010315770",
+    "symbol": "WLD.PA",
+    "etf": true,
+    "amount": 0.6334,
+    "purchasePrice": 173.27,
+    "depot": 0
+  },
+  {
+    "name": "Main Street Capital",
+    "wkn": "A0X8Y3",
+    "isin": "US56035L1044",
+    "symbol": "MAIN",
+    "etf": false,
+    "amount": 40,
+    "purchasePrice": 34.38,
+    "depot": 0
+  },
+  {
+    "name": "Microsoft",
+    "wkn": "870747",
+    "isin": "US5949181045",
+    "symbol": "MSFT",
+    "etf": false,
+    "amount": 10,
+    "purchasePrice": 126.34,
+    "depot": 0
+  },
+  {
+    "name": "McDonalds",
+    "wkn": "856958",
+    "isin": "US5801351017",
+    "symbol": "MCD",
+    "etf": false,
+    "amount": 10,
+    "purchasePrice": 158,
+    "depot": 0
+  },
+  {
+    "name": "Münchener Rück",
+    "wkn": "843002",
+    "isin": "DE0008430026",
+    "symbol": "MUV2.DE",
+    "etf": false,
+    "amount": 11,
+    "purchasePrice": 230.64,
+    "depot": 0
+  },
+  {
+    "name": "Omega Health Investors",
+    "wkn": "890454",
+    "isin": "US6819361006",
+    "symbol": "OHI",
+    "etf": false,
+    "amount": 50,
+    "purchasePrice": 21.68,
+    "depot": 0
+  },
+  {
+    "name": "Procter & Gamble",
+    "wkn": "852062",
+    "isin": "US7427181091",
+    "symbol": "PG",
+    "etf": false,
+    "amount": 20,
+    "purchasePrice": 79.4,
+    "depot": 0
+  },
+  {
+    "name": "Realty Income",
+    "wkn": "899744",
+    "isin": "US7561091049",
+    "symbol": "O",
+    "etf": false,
+    "amount": 50,
+    "purchasePrice": 46.76,
+    "depot": 0
+  },
+  {
+    "name": "Rio Tinto",
+    "wkn": "852147",
+    "isin": "GB0007188757",
+    "symbol": "RIO",
+    "etf": false,
+    "amount": 30,
+    "purchasePrice": 44.86,
+    "depot": 0
+  },
+  {
+    "name": "STAG Industrial",
+    "wkn": "A1C8BH",
+    "isin": "US85254J1025",
+    "symbol": "STAG",
+    "etf": false,
+    "amount": 50,
+    "purchasePrice": 24.91,
+    "depot": 0
+  },
+  {
+    "name": "Union Pacific",
+    "wkn": "858144",
+    "isin": "US9078181081",
+    "symbol": "UNP",
+    "etf": false,
+    "amount": 10,
+    "purchasePrice": 164.78,
+    "depot": 0
+  },
+  {
+    "name": "Vanguard S&P 500",
+    "wkn": "A1JX53",
+    "isin": "IE00B3XXRP09",
+    "symbol": "VUSA.L",
+    "etf": true,
+    "amount": 122,
+    "purchasePrice": 46.56,
+    "depot": 0
+  },
+  {
+    "name": "Visa",
+    "wkn": "A0NC7B",
+    "isin": "US92826C8394",
+    "symbol": "V",
+    "etf": false,
+    "amount": 10,
+    "purchasePrice": 158.28,
+    "depot": 0
+  },
+  {
+    "name": "Kraft Heinz",
+    "wkn": "A14TU4",
+    "isin": "US5007541064",
+    "symbol": "KHNZ",
+    "etf": false,
+    "amount": 0,
+    "purchasePrice": null,
+    "depot": 0
+  },
+  {
+    "name": "Royal Dutch Shell",
+    "wkn": "A0D94M",
+    "isin": "GB00B03MLX29",
+    "symbol": "R6C",
+    "etf": false,
+    "amount": 0,
+    "purchasePrice": null,
+    "depot": 0
+  },
+  {
+    "name": "AbbVie",
+    "wkn": "A1J84E",
+    "isin": "US00287Y1091",
+    "symbol": "ABBV",
+    "etf": false,
+    "amount": 20,
+    "purchasePrice": 87.47,
+    "depot": 0
+  },
+  {
+    "name": "American Tower Corp",
+    "wkn": "A1JRLA",
+    "isin": "US03027X1000",
+    "symbol": "AMT",
+    "etf": false,
+    "amount": 9,
+    "purchasePrice": 194.04,
+    "depot": 0
+  },
+  {
+    "name": "Blackrock",
+    "wkn": "928193",
+    "isin": "US09247X1019",
+    "symbol": "BLK",
+    "etf": false,
+    "amount": 3,
+    "purchasePrice": 605.9,
+    "depot": 0
+  },
+  {
+    "name": "Cisco",
+    "wkn": "878841",
+    "isin": "US17275R1023",
+    "symbol": "CSCO",
+    "etf": false,
+    "amount": 40,
+    "purchasePrice": 39.25,
+    "depot": 0
+  },
+  {
+    "name": "Digital Realty Trust",
+    "wkn": "A0DLFT",
+    "isin": "US2538681030",
+    "symbol": "DLR",
+    "etf": false,
+    "amount": 13,
+    "purchasePrice": 110.34,
+    "depot": 0
+  },
+  {
+    "name": "Starbucks",
+    "wkn": "884437",
+    "isin": "US8552441094",
+    "symbol": "SBUX",
+    "etf": false,
+    "amount": 20,
+    "purchasePrice": 86.53,
+    "depot": 0
+  },
+  {
+    "name": "Texas Instruments",
+    "wkn": "852654",
+    "isin": "US8825081040",
+    "symbol": "TXN",
+    "etf": false,
+    "amount": 13,
+    "purchasePrice": 144.22,
+    "depot": 0
+  },
+  {
+    "name": "Unilever",
+    "wkn": "A0JNE2",
+    "isin": "GB00B10RZP78",
+    "symbol": "UL",
+    "etf": false,
+    "amount": 30,
+    "purchasePrice": 48.5,
+    "depot": 0
+  },
+  {
+    "name": "WisdomTree S&P China 500",
+    "wkn": "A2ANVN",
+    "isin": "LU1440654330",
+    "symbol": "CHIP.L",
+    "etf": true,
+    "amount": 59.5104,
+    "purchasePrice": 14.97,
+    "depot": 0
+  },
+  {
+    "name": "iShares Nasdaq 100 ETF",
+    "wkn": "A0F5UF",
+    "isin": "DE000A0F5UF5",
+    "symbol": "EXXT.DE",
+    "etf": true,
+    "amount": 22.818,
+    "purchasePrice": 110.43,
+    "depot": 1
+  },
+  {
+    "name": "iShares MSCI World",
+    "wkn": "A0HGV0",
+    "isin": "IE00B0M62Q58",
+    "symbol": "IWRD.L",
+    "etf": true,
+    "amount": 86.775,
+    "purchasePrice": 46.26,
+    "depot": 1
+  },
+  {
+    "name": "iShares Developed Markets Property Yield",
+    "wkn": "A0LEW8",
+    "isin": "IE00B1FZS350",
+    "symbol": "ISPFF",
+    "etf": true,
+    "amount": 172.246,
+    "purchasePrice": 21.81,
+    "depot": 1
+  },
+  {
+    "name": "iShares Global Clean Energy",
+    "wkn": "A0MW0M",
+    "isin": "IE00B1XNHC34",
+    "symbol": "INRG.L",
+    "etf": true,
+    "amount": 192.734,
+    "purchasePrice": 9.97,
+    "depot": 1
+  },
+  {
+    "name": "Lyxor S&P 500",
+    "wkn": "LYX0FS",
+    "isin": "LU0496786574",
+    "symbol": "LYPS.DE",
+    "etf": true,
+    "amount": 84.948,
+    "purchasePrice": 29.3,
+    "depot": 1
+  },
+  {
+    "name": "iShares MSCI World",
+    "wkn": "A0HGV0",
+    "isin": "IE00B0M62Q58",
+    "symbol": "IWRD.L",
+    "etf": true,
+    "amount": 267,
+    "purchasePrice": 50.64,
+    "depot": 2
+  },
+  {
+    "name": "iShares MSCI EM",
+    "wkn": "A0HGWC",
+    "isin": "IE00B0M63177",
+    "symbol": "IEMM.AS",
+    "etf": true,
+    "amount": 137,
+    "purchasePrice": 45.56,
+    "depot": 2
+  },
+  {
+    "name": "Vanguard FTSE 100",
+    "wkn": "A1JX54",
+    "isin": "IE00B810Q511",
+    "symbol": "VUKE.L",
+    "etf": true,
+    "amount": 0,
+    "purchasePrice": null,
+    "depot": 1
+  },
+  {
+    "name": "Amundi MSCI Emerging Markets",
+    "wkn": "A2H58J",
+    "isin": "LU1681045370",
+    "symbol": "AEEM.PA",
+    "etf": true,
+    "amount": 731.373,
+    "purchasePrice": 4.49,
+    "depot": 1
+  },
+  {
+    "name": "Amazon",
+    "wkn": "906866",
+    "isin": "US0231351067",
+    "symbol": "AMZN",
+    "etf": false,
+    "amount": 1,
+    "purchasePrice": 2757,
+    "depot": 0
+  },
+  {
+    "name": "E.ON",
+    "wkn": "ENAG99",
+    "isin": "DE000ENAG999",
+    "symbol": "EOAN.DE",
+    "etf": false,
+    "amount": 100,
+    "purchasePrice": 12.25,
+    "depot": 0
+  },
+  {
+    "name": "Waste Management",
+    "wkn": "893579",
+    "isin": "US94106L1098",
+    "symbol": "WM",
+    "etf": false,
+    "amount": 10,
+    "purchasePrice": 152.32,
+    "depot": 0
+  },
+  {
+    "name": "SPDR S&P US Dividend Aristocrats",
+    "wkn": "A1JKS0",
+    "isin": "IE00B6YX5D40",
+    "symbol": "SPYD.DE",
+    "etf": true,
+    "amount": 10,
+    "purchasePrice": 63.26,
+    "depot": 1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "wkn": "A0HGV0",
+    "depot": 2,
+    "payed": "25.03.2021",
+    "amount": 12.07
+  },
+  {
+    "wkn": "A0HGWC",
+    "depot": 2,
+    "payed": "25.03.2021",
+    "amount": 6.58
+  },
+  {
+    "wkn": "A0HGV0",
+    "depot": 2,
+    "payed": "02.07.2021",
+    "amount": 27.64
+  },
+  {
+    "wkn": "A0HGWC",
+    "depot": 2,
+    "payed": "02.07.2021",
+    "amount": 10.86
+  },
+  {
+    "wkn": "A0HGV0",
+    "depot": 2,
+    "payed": "30.09.2021",
+    "amount": 26.7
+  },
+  {
+    "wkn": "A0HGWC",
+    "depot": 2,
+    "payed": "30.09.2021",
+    "amount": 38.04
+  },
+  {
+    "wkn": "A0HGV0",
+    "depot": 2,
+    "payed": "31.12.2021",
+    "amount": 32.88
+  },
+  {
+    "wkn": "A0HGWC",
+    "depot": 2,
+    "payed": "31.12.2021",
+    "amount": 18.22
+  },
+  {
+    "wkn": "A0HGWC",
+    "depot": 2,
+    "payed": "31.03.2022",
+    "amount": 17.87
+  },
+  {
+    "wkn": "A0HGV0",
+    "depot": 2,
+    "payed": "31.03.2022",
+    "amount": 26.69
+  },
+  {
+    "wkn": "A0HGWC",
+    "depot": 2,
+    "payed": "30.06.2022",
+    "amount": 36.48
+  },
+  {
+    "wkn": "A0HGV0",
+    "depot": 2,
+    "payed": "30.06.2022",
+    "amount": 86.31
+  }
+]
