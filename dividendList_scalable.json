@@ -70,5 +70,17 @@
     "depot": 2,
     "payed": "30.06.2022",
     "amount": 86.31
+  },
+  {
+    "wkn": "A0HGWC",
+    "depot": 2,
+    "payed": "30.09.2022",
+    "amount": 74.98
+  },
+  {
+    "wkn": "A0HGV0",
+    "depot": 2,
+    "payed": "04.10.2022",
+    "amount": 46.96
   }
 ]
