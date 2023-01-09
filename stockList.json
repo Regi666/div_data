@@ -538,5 +538,15 @@
     "amount": 10,
     "purchasePrice": 63.26,
     "depot": 1
+  },
+  {
+    "name": "Lockheed Martin",
+    "wkn": "894648",
+    "isin": "US5398301094",
+    "symbol": "LMT",
+    "etf": false,
+    "amount": 4,
+    "purchasePrice": 425,
+    "depot": 0
   }
 ]

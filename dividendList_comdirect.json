@@ -280,5 +280,23 @@
     "depot": 1,
     "payed": "09.12.2022",
     "amount": 33.96
+  },
+  {
+    "wkn": "A0F5UF",
+    "depot": 1,
+    "payed": "16.12.2022",
+    "amount": 1.68
+  },
+  {
+    "wkn": "A1JKS0",
+    "depot": 1,
+    "payed": "30.12.2022",
+    "amount": 15.66
+  },
+  {
+    "wkn": "A0HGV0",
+    "depot": 1,
+    "payed": "30.12.2022",
+    "amount": 12.01
   }
 ]
