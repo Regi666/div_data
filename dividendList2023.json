@@ -1,0 +1,50 @@
+[
+    {
+        "wkn": "200417",
+        "depot": 0,
+        "payed": "10.01.2023",
+        "amount": 19.9
+    },
+    {
+        "wkn": "940561",
+        "depot": 0,
+        "payed": "12.01.2023",
+        "amount": 9.32
+    },
+    {
+        "wkn": "A0X8Y3",
+        "depot": 0,
+        "payed": "13.01.2023",
+        "amount": 7.09
+    },
+    {
+        "wkn": "899744",
+        "depot": 0,
+        "payed": "13.01.2023",
+        "amount": 9.8
+    },
+    {
+        "wkn": "A0DLFT",
+        "depot": 0,
+        "payed": "13.01.2023",
+        "amount": 12.48
+    },
+    {
+        "wkn": "A0F5UH",
+        "depot": 0,
+        "payed": "16.01.2023",
+        "amount": 36.73
+    },
+    {
+        "wkn": "A1C8BH",
+        "depot": 0,
+        "payed": "17.01.2023",
+        "amount": 4.74
+    },
+    {
+        "wkn": "A0MW32",
+        "depot": 0,
+        "payed": "18.01.2023",
+        "amount": 35.13
+    }
+]
