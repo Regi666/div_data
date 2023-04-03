@@ -202,5 +202,41 @@
         "depot": 0,
         "payed": "27.03.2023",
         "amount": 8.53
+    },
+    {
+        "wkn": "A0X8Y3",
+        "depot": 0,
+        "payed": "28.03.2023",
+        "amount": 5.47
+    },
+    {
+        "wkn": "A1JX53",
+        "depot": 0,
+        "payed": "29.03.2023",
+        "amount": 32.23
+    },
+    {
+        "wkn": "A0HGWC",
+        "depot": 0,
+        "payed": "29.03.2023",
+        "amount": 10.69
+    },
+    {
+        "wkn": "A2JG9Z",
+        "depot": 0,
+        "payed": "31.03.2023",
+        "amount": 21.52
+    },
+    {
+        "wkn": "A0DLFT",
+        "depot": 0,
+        "payed": "31.03.2023",
+        "amount": 13.37
+    },
+    {
+        "wkn": "858144",
+        "depot": 0,
+        "payed": "31.03.2023",
+        "amount": 10.13
     }
 ]
